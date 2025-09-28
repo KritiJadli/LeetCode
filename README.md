@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritiJadli/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/KritiJadli/LeetCode/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/KritiJadli/LeetCode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KritiJadli/LeetCode/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/KritiJadli/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
