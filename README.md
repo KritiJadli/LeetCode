@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
