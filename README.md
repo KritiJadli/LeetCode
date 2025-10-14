@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KritiJadli/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KritiJadli/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/KritiJadli/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KritiJadli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KritiJadli/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KritiJadli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KritiJadli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KritiJadli/LeetCode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/KritiJadli/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KritiJadli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KritiJadli/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
