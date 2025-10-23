@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KritiJadli/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KritiJadli/LeetCode/tree/master/0326-power-of-three) |
+| [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KritiJadli/LeetCode/tree/master/0014-longest-common-prefix) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
