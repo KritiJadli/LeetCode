@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KritiJadli/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/KritiJadli/LeetCode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KritiJadli/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KritiJadli/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KritiJadli/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KritiJadli/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
