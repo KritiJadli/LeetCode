@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KritiJadli/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/KritiJadli/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KritiJadli/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KritiJadli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KritiJadli/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/KritiJadli/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KritiJadli/LeetCode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
