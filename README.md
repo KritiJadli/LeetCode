@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KritiJadli/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KritiJadli/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KritiJadli/LeetCode/tree/master/0011-container-with-most-water) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KritiJadli/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/KritiJadli/LeetCode/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KritiJadli/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KritiJadli/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
