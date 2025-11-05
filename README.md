@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KritiJadli/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KritiJadli/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KritiJadli/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
