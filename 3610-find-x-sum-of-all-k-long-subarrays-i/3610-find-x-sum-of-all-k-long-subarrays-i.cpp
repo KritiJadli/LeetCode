@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int findTopXSum(unordered_map<int,int>&mp,int x){
+        //priority  queue
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        for(auto it:mp){
+            pq.push({it.second,it.first});
+            if(pq.size()>x){
+                pq.pop();
+            }
+        }
+        int  sum=0;
+        while(!pq.empty()){
+            auto[freq,val]=pq.top();
+            pq.pop();
+            sum+=freq*val;
+
+        }
+        return sum;
+    
+    }
+    vector<int> findXSum(vector<int>& nums, int k, int x) {
+        vector<int>ans;
+        unordered_map<int,int>mp;
+        int i=0;
+        int j=0;
+        while(j<nums.size()){
+            mp[nums[j]]++;
+            //check if j is equal to k size then perform priority queue opn
+            if(j-i+1==k){
+                ans.push_back(findTopXSum(mp,x));
+                mp[nums[i]]--;
+                if(mp[nums[i]]==0){
+                    mp.erase(nums[i]);
+                }
+                i++;
+            }
+            j++;
+        
+
+        }
+        return ans;
+           
+        }
+    
+};
