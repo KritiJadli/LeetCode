@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KritiJadli/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/KritiJadli/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KritiJadli/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/KritiJadli/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/KritiJadli/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/KritiJadli/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KritiJadli/LeetCode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/KritiJadli/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/KritiJadli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KritiJadli/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KritiJadli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/KritiJadli/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KritiJadli/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/KritiJadli/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/KritiJadli/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KritiJadli/LeetCode/tree/master/0090-subsets-ii) |
