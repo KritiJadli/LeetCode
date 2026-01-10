@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KritiJadli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KritiJadli/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/KritiJadli/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KritiJadli/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KritiJadli/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/KritiJadli/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KritiJadli/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KritiJadli/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/KritiJadli/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
 ## String Matching
 |  |
 | ------- |
