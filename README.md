@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KritiJadli/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KritiJadli/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/KritiJadli/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KritiJadli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritiJadli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KritiJadli/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KritiJadli/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KritiJadli/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritiJadli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KritiJadli/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KritiJadli/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KritiJadli/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
