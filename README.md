@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KritiJadli/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/KritiJadli/LeetCode/tree/master/0739-daily-temperatures) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KritiJadli/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KritiJadli/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0841-keys-and-rooms](https://github.com/KritiJadli/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KritiJadli/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KritiJadli/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/KritiJadli/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
