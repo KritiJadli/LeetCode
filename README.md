@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KritiJadli/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KritiJadli/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/KritiJadli/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KritiJadli/LeetCode/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
@@ -406,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/KritiJadli/LeetCode/tree/master/0901-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KritiJadli/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KritiJadli/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
