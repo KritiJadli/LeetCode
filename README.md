@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KritiJadli/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KritiJadli/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Union-Find
 |  |
 | ------- |
