@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/KritiJadli/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KritiJadli/LeetCode/tree/master/0179-largest-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KritiJadli/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [4005-maximum-total-subarray-value-i](https://github.com/KritiJadli/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
