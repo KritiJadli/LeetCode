@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KritiJadli/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/KritiJadli/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KritiJadli/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KritiJadli/LeetCode/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KritiJadli/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
