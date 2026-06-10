@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KritiJadli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KritiJadli/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/KritiJadli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KritiJadli/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/KritiJadli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KritiJadli/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KritiJadli/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KritiJadli/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KritiJadli/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KritiJadli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KritiJadli/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1603-running-sum-of-1d-array) |
