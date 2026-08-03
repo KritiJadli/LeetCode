@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KritiJadli/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KritiJadli/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KritiJadli/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2892-check-if-array-is-good](https://github.com/KritiJadli/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KritiJadli/LeetCode/tree/master/0179-largest-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KritiJadli/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KritiJadli/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [4005-maximum-total-subarray-value-i](https://github.com/KritiJadli/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## String
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/KritiJadli/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KritiJadli/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2892-check-if-array-is-good](https://github.com/KritiJadli/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## String Matching
 |  |
