@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/KritiJadli/LeetCode/tree/master/0739-daily-temperatures) |
+| [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/KritiJadli/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KritiJadli/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/KritiJadli/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/KritiJadli/LeetCode/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KritiJadli/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KritiJadli/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KritiJadli/LeetCode/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Trie
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/KritiJadli/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
