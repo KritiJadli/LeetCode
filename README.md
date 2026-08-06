@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/KritiJadli/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KritiJadli/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KritiJadli/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KritiJadli/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/KritiJadli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KritiJadli/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KritiJadli/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KritiJadli/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
