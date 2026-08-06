@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/KritiJadli/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/KritiJadli/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KritiJadli/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/KritiJadli/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KritiJadli/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/KritiJadli/LeetCode/tree/master/0520-detect-capital) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/KritiJadli/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KritiJadli/LeetCode/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0412-fizz-buzz](https://github.com/KritiJadli/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KritiJadli/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/KritiJadli/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/KritiJadli/LeetCode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
