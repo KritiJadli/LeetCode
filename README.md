@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KritiJadli/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/KritiJadli/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/KritiJadli/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KritiJadli/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KritiJadli/LeetCode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1672-richest-customer-wealth](https://github.com/KritiJadli/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
