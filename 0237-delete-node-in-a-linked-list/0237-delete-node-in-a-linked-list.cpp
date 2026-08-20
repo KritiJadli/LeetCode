@@ -9,7 +9,18 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        node->val=node->next->val;
-        node->next=node->next->next;
+        ListNode* prev=NULL;
+        while(node!=NULL && node->next!=NULL){
+            node->val=node->next->val;
+            prev=node;
+            node=node->next;
+        }
+        prev->next=NULL;
+        delete(node);
+        
     }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
