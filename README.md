@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KritiJadli/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
