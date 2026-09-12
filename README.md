@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/KritiJadli/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KritiJadli/LeetCode/tree/master/0011-container-with-most-water) |
@@ -86,8 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/KritiJadli/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/KritiJadli/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KritiJadli/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KritiJadli/LeetCode/tree/master/0136-single-number) |
@@ -99,8 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KritiJadli/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/KritiJadli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KritiJadli/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KritiJadli/LeetCode/tree/master/0016-3sum-closest) |
@@ -127,8 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KritiJadli/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KritiJadli/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -140,8 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KritiJadli/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/KritiJadli/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritiJadli/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KritiJadli/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -170,8 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/KritiJadli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KritiJadli/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KritiJadli/LeetCode/tree/main/0134-gas-station/) | Medium |
@@ -181,8 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KritiJadli/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [4005-maximum-total-subarray-value-i](https://github.com/KritiJadli/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritiJadli/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KritiJadli/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KritiJadli/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -209,8 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KritiJadli/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritiJadli/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/KritiJadli/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/KritiJadli/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -224,8 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KritiJadli/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/KritiJadli/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KritiJadli/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KritiJadli/LeetCode/tree/master/0018-4sum) |
@@ -243,12 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KritiJadli/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2892-check-if-array-is-good](https://github.com/KritiJadli/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0812-rotate-string](https://github.com/KritiJadli/LeetCode/tree/master/0812-rotate-string) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/KritiJadli/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KritiJadli/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KritiJadli/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -266,8 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/KritiJadli/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KritiJadli/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KritiJadli/LeetCode/tree/master/0050-powx-n) |
@@ -277,20 +277,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KritiJadli/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KritiJadli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/KritiJadli/LeetCode/tree/master/1127-last-stone-weight) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/KritiJadli/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KritiJadli/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KritiJadli/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -298,8 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/KritiJadli/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -309,8 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KritiJadli/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KritiJadli/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/KritiJadli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -320,29 +320,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/KritiJadli/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KritiJadli/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KritiJadli/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/KritiJadli/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KritiJadli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KritiJadli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/KritiJadli/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KritiJadli/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/KritiJadli/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KritiJadli/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/KritiJadli/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KritiJadli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KritiJadli/LeetCode/tree/master/0009-palindrome-number) |
@@ -360,8 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/KritiJadli/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/KritiJadli/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KritiJadli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -370,12 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KritiJadli/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KritiJadli/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1013-fibonacci-number](https://github.com/KritiJadli/LeetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KritiJadli/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KritiJadli/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KritiJadli/LeetCode/tree/master/0039-combination-sum) |
@@ -388,20 +388,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KritiJadli/LeetCode/tree/master/0090-subsets-ii) |
 | [0980-unique-paths-iii](https://github.com/KritiJadli/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/KritiJadli/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Reservoir Sampling
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Randomized
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0382-linked-list-random-node](https://github.com/KritiJadli/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritiJadli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KritiJadli/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -416,19 +416,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/KritiJadli/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0496-next-greater-element-i](https://github.com/KritiJadli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KritiJadli/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KritiJadli/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/KritiJadli/LeetCode/tree/master/0901-online-stock-span) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0073-set-matrix-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
@@ -439,13 +439,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/KritiJadli/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritiJadli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KritiJadli/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritiJadli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KritiJadli/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
@@ -458,13 +458,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/KritiJadli/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritiJadli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KritiJadli/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/KritiJadli/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KritiJadli/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KritiJadli/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
@@ -485,54 +485,54 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/KritiJadli/LeetCode/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/KritiJadli/LeetCode/tree/master/1934-confirmation-rate) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0412-fizz-buzz](https://github.com/KritiJadli/LeetCode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KritiJadli/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/KritiJadli/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KritiJadli/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KritiJadli/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/KritiJadli/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KritiJadli/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/KritiJadli/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KritiJadli/LeetCode/tree/master/0210-course-schedule-ii) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0901-online-stock-span](https://github.com/KritiJadli/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0901-online-stock-span](https://github.com/KritiJadli/LeetCode/tree/master/0901-online-stock-span) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/KritiJadli/LeetCode/tree/master/0292-nim-game) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/KritiJadli/LeetCode/tree/master/0292-nim-game) |
 ## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0187-repeated-dna-sequences](https://github.com/KritiJadli/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0187-repeated-dna-sequences](https://github.com/KritiJadli/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
