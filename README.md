@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KritiJadli/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KritiJadli/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2892-check-if-array-is-good](https://github.com/KritiJadli/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-find-words-containing-character](https://github.com/KritiJadli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/KritiJadli/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KritiJadli/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KritiJadli/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/KritiJadli/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KritiJadli/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KritiJadli/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KritiJadli/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
 | ------- |
