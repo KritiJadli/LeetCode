@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KritiJadli/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/KritiJadli/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KritiJadli/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/KritiJadli/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KritiJadli/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KritiJadli/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/KritiJadli/LeetCode/tree/master/0066-plus-one) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KritiJadli/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KritiJadli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KritiJadli/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/KritiJadli/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KritiJadli/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KritiJadli/LeetCode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KritiJadli/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/KritiJadli/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KritiJadli/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KritiJadli/LeetCode/tree/master/0200-number-of-islands) |
