@@ -4,16 +4,13 @@ public:
         int temp=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]!=0){
-                nums[temp]=nums[i];
-                temp++;
-
+               nums[temp]=nums[i];
+               temp++;
             }
-
         }
-        for(int i=temp;i<nums.size();i++){
-            if(nums[i]==0);
-            nums[i]=0;
+        while(temp<nums.size()){
+            nums[temp]=0;
+            temp++;
         }
-        
     }
 };
