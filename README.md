@@ -562,4 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KritiJadli/LeetCode/tree/master/0056-merge-intervals) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/KritiJadli/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/KritiJadli/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
